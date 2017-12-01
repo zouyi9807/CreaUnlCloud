@@ -4,6 +4,7 @@
 
 * [My Awesome API](README.md)
 
-## Methods
+## 开发简介
 
 * [Defining Methods](methods.md)
+
